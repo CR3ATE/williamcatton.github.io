@@ -1,3 +1,5 @@
+I am a _manager_ at [RECHroom](https://www.rechroom.com/) and was formerly an _analyst_ at [Hall Capital Partners](http://www.hallcapital.com/).
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CR3ATE/williamcatton.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
